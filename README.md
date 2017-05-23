@@ -3,10 +3,10 @@ backend system using Spring boot + kotlin
 
 ## 用到的框架/技术
 spring boot<br/>
-spring security
-mybatis
-thymeleaf
-druid
+spring security<br/>
+mybatis<br/>
+thymeleaf<br/>
+druid<br/>
 
 
 ## 数据库
