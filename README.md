@@ -12,3 +12,8 @@ druid<br/>
 ## 数据库
 关系型数据库 mysql
 nosql数据库  redis
+
+------------------
+
+Selwyn Shen
+selwynshen@gmail.com
